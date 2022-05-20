@@ -6,6 +6,7 @@
   "AssemblyVersion": "0.3.5",
   "RepoUrl": "https://github.com/SF-XIV/RolePlayersToolbox-FP-Edition",
   "ApplicableVersion": "any",
+  "Tags": [ "roleplayers", "toolbox", "emote", "glitch"],
   "DalamudApiLevel": 6,
   "IconUrl": "https://raw.githubusercontent.com/SF-XIV/RolePlayersToolbox-FP-Edition/main/icon.png",
   "IsHide": false,
